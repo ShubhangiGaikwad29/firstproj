@@ -1,2 +1,3 @@
 # firstproj
-this is my git repository
+this is my git repository.
+hey good morning
